@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <notas_x0020_de_x0020_materias>
+    <nombre>ingles</nombre>
+    <tp1>7</tp1>
+    <tp2>7</tp2>
+    <tp3>8</tp3>
+    <tp4>9</tp4>
+    <nota_x0020_final>8</nota_x0020_final>
+  </notas_x0020_de_x0020_materias>
+  <notas_x0020_de_x0020_materias>
+    <nombre>matematica</nombre>
+    <tp1>8</tp1>
+    <tp2>7</tp2>
+    <tp3>8</tp3>
+    <tp4>9</tp4>
+    <nota_x0020_final>8</nota_x0020_final>
+  </notas_x0020_de_x0020_materias>
+</DocumentElement>
